@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/jomiy191/jomiy191/main/frontend.png" width="600" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="300" />
+</p>
+
 <h1 align="center">Hi there 👋 I'm Abdurahmon</h1>
 
 <p align="center">
@@ -33,3 +37,4 @@ Frontend Developer | HTML • CSS • JavaScript • React • Tailwind CSS
 - 📧 Email: **jomiy191@gmail.com**
 
 ⭐️ Feel free to check out my repositories and give a star if you like my work!
+
