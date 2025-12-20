@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hey there! I'm Abdurahmon 👋
+<<!--# Hey there! I'm Abdurahmon 👋
 
 I'm a Frontend Developer from Uzbekistan 🇺🇿  
 I enjoy building modern, responsive, and user-friendly web applications.
