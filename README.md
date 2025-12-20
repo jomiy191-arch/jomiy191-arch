@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jomiy191/jomiy191/main/abu.png" width="300" />
+  <img src="https://raw.githubusercontent.com/jomiy191/jomiy191/main/abu.gif" width="300" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Abdurahmon</h1>
@@ -46,3 +46,4 @@ Frontend Developer | HTML • CSS • JavaScript • React • Tailwind CSS
 ---
 
 ⭐️ Feel free to check out my repositories and give a star if you like my work!
+
