@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jomiy191/jomiy191/main/frontend.png" width="600" />
-</p>
+<img src="images/abu.png" width="300" />
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="300" />
