@@ -1,29 +1,31 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-</p>
-
-<h1 align="center">Hi there 👋 I'm Abdurahmon</h1>
-
-<p align="center">
-  <b>Frontend Developer</b> <br/>
-  HTML • CSS • JavaScript • React • Tailwind CSS
-</p>
-
-<p align="center">
-  <a href="https://github.com/jomiy191">
-    <img src="https://komarev.com/ghpvc/?username=jomiy191&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+    </td>
+    <td width="55%" align="left">
+      <h1>Hi there 👋 I'm Abdurahmon</h1>
+      <p>
+        <b>Frontend Developer</b><br/><br/>
+        💻 HTML • CSS • JavaScript <br/>
+        ⚛️ React • TypeScript <br/>
+        🎨 Tailwind CSS <br/><br/>
+        🇺🇿 Uzbekistan <br/>
+        🌱 Always learning new technologies <br/>
+        🤝 Open to collaboration & freelance work
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 👨‍💻 About Me
 - 💻 Frontend Developer from Uzbekistan 🇺🇿
 - ⚛️ React / JavaScript / TypeScript
-- 🎨 Pixel-perfect UI & responsive design
-- 🌱 Always learning new technologies
-- 🤝 Open to collaboration & freelance work
-- 🎯 Passionate about clean code and modern web apps
+- 🎨 Pixel-perfect & responsive UI
+- 🌱 Always improving skills
+- 🎯 Clean code & modern web apps
 
 ---
 
@@ -49,16 +51,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jomiy191&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomiy191&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📫 How to reach me
 - 📧 Email: **jomiy191@gmail.com**
-- 🌐 LinkedIn: *(agar bo‘lsa qo‘shib qo‘yasan)*
+- 🌐 LinkedIn: *(qo‘shsa bo‘ladi)*
 
----
-
-⭐️ Feel free to check out my repositories and give a star if you like my work!
+⭐️ Feel free to check out my repositories and give a star!
