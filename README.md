@@ -1,8 +1,5 @@
 <table>
   <tr>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
-    </td>
     <td width="55%" align="left">
       <h1>Hi there 👋 I'm Abdurahmon</h1>
       <p>
@@ -14,6 +11,10 @@
         🌱 Always learning new technologies <br/>
         🤝 Open to collaboration & freelance work
       </p>
+    </td>
+
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
     </td>
   </tr>
 </table>
@@ -55,6 +56,6 @@
 
 ## 📫 How to reach me
 - 📧 Email: **jomiy191@gmail.com**
-- 🌐 LinkedIn: *(qo‘shsa bo‘ladi)*
+- 🌐 LinkedIn: *(qo‘shib qo‘yasan)*
 
 ⭐️ Feel free to check out my repositories and give a star!
