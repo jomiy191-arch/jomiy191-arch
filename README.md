@@ -47,6 +47,5 @@
 
 ## 📫 How to reach me
 - 📧 Email: **jomiy191@gmail.com**
-- 🌐 LinkedIn: *(qo‘shsa bo‘ladi)*
 
 ⭐️ Feel free to check out my repositories and give a star!
